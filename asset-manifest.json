@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MyRopo/static/css/main.b3bc7669.css",
+    "main.js": "/MyRopo/static/js/main.68dd89e4.js",
+    "static/js/787.9624773e.chunk.js": "/MyRopo/static/js/787.9624773e.chunk.js",
+    "static/media/SEGA.woff": "/MyRopo/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/MyRopo/index.html",
+    "main.b3bc7669.css.map": "/MyRopo/static/css/main.b3bc7669.css.map",
+    "main.68dd89e4.js.map": "/MyRopo/static/js/main.68dd89e4.js.map",
+    "787.9624773e.chunk.js.map": "/MyRopo/static/js/787.9624773e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3bc7669.css",
+    "static/js/main.68dd89e4.js"
+  ]
+}
